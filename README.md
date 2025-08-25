@@ -19,6 +19,7 @@
 3. **Stripe Integration:** Implementing payment processing with Stripe.
 4. **Email & File Uploads:** Sending emails and handling file uploads within the application.
 
+![Node.js Certificate](certificates/nodejs_certificate.png)
 
 
 ---
